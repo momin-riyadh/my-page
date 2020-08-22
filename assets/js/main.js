@@ -30,8 +30,8 @@ License: https://themeforest.net/licenses/standard
 	// Vars
 	var $body = $('body'),
 		$preloader = $('#preloader'),
-		preloaderDelay = 1200,
-		preloaderFadeOutTime = 500,
+		preloaderDelay = 800,
+		preloaderFadeOutTime = 300,
 		$navToggle = $('#navigation-toggle');
 
 	function getWindowWidth() {
